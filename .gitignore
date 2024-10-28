@@ -1,0 +1,5 @@
+__pycache__/
+.idea
+vision_key.json
+vision-env
+prometheus-grafana

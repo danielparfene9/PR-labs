@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Chat</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f0f0f0;
+                margin: 0;
+                padding: 20px;
+            }
+            h1 {
+                color: #333;
+                text-align: center;
+                margin-bottom: 30px;
+            }
+            #roomForm, #chat form {
+                background-color: #fff;
+                border-radius: 8px;
+                padding: 15px;
+                box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+                margin: 0 auto;
+                width: 300px;
+                display: flex;
+                flex-direction: column;
+            }
+            input[type="text"] {
+                padding: 10px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                margin-bottom: 10px;
+                font-size: 16px;
+            }
+            button {
+                background-color: #28a745;
+                color: white;
+                border: none;
+                border-radius: 4px;
+                padding: 10px;
+                cursor: pointer;
+                font-size: 16px;
+                transition: background-color 0.3s;
+            }
+            button:hover {
+                background-color: #218838;
+            }
+            #chat {
+                display: none;
+                margin-top: 20px;
+            }
+            #messages {
+                list-style-type: none;
+                padding: 0;
+                margin: 0;
+                max-height: 200px;
+                overflow-y: auto;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                background-color: #fff;
+            }
+            #messages li {
+                padding: 10px;
+                border-bottom: 1px solid #f0f0f0;
+            }
+            #messages li:last-child {
+                border-bottom: none;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 id="chatTitle">WebSocket Chat</h1>
+        <form id="roomForm" action="" onsubmit="joinRoom(event)">
+            <input type="text" id="roomName" placeholder="Room name" autocomplete="off" required/>
+            <button type="submit">Join Room</button>
+        </form>
+        <div id="chat">
+            <form id="nicknameForm" onsubmit="setNickname(event)">
+                <input type="text" id="nickname" placeholder="Enter your nickname" autocomplete="off" required/>
+                <button type="submit">Set Nickname</button>
+            </form>
+            <form id="messageForm" onsubmit="sendMessage(event)" style="display: none;">
+                <input type="text" id="messageText" placeholder="Type your message..." autocomplete="off" required/>
+                <button type="submit">Send</button>
+            </form>
+            <ul id='messages'></ul>
+        </div>
+        <script>
+            var ws;
+            var nickname = "";
+
+            function joinRoom(event) {
+                event.preventDefault();
+                var room = document.getElementById("roomName").value;
+                ws = new WebSocket(`ws://localhost:8000/ws/${room}`);
+
+                ws.onmessage = function(event) {
+                    var messages = document.getElementById('messages');
+                    var message = document.createElement('li');
+                    message.innerHTML = event.data;
+                    messages.appendChild(message);
+                };
+
+                document.getElementById("chatTitle").textContent = `Room: ${room}`;
+                
+                document.getElementById("roomForm").style.display = 'none';
+                document.getElementById("chat").style.display = 'block';
+            }
+
+            function setNickname(event) {
+                event.preventDefault();
+                nickname = document.getElementById("nickname").value;
+                document.getElementById("nicknameForm").style.display = 'none';
+                
+                document.getElementById("messageForm").style.display = 'flex';
+                document.getElementById("messageText").focus();
+            }
+
+            function sendMessage(event) {
+                var input = document.getElementById("messageText");
+                var message = `${nickname} - ${input.value}`;
+                ws.send(message);
+                input.value = '';
+                event.preventDefault();
+            }
+        </script>
+    </body>
+</html>

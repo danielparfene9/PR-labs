@@ -1,0 +1,290 @@
+{
+  "status": "success",
+  "source": "selenium",
+  "products": [
+    [
+      [
+        "Capacitatea acumulatorului",
+        "3274 mAh"
+      ],
+      [
+        "Memorie internă",
+        "128 GB"
+      ],
+      [
+        "RAM",
+        "8 GB"
+      ],
+      [
+        "Dimensiune ecran",
+        "6.1"
+      ],
+      [
+        "Tip display",
+        "Super Retina XDR OLED"
+      ],
+      [
+        "Numărul de SIM",
+        "Single SIM"
+      ]
+    ],
+    [
+      [
+        "Face ID",
+        "Da"
+      ],
+      [
+        "Model",
+        "iPhone 15 Pro"
+      ],
+      [
+        "Brand",
+        "Apple"
+      ],
+      [
+        "Cod model",
+        "MTV03RX/A"
+      ]
+    ],
+    [
+      [
+        "Culoarea de bază",
+        "Blue Titanium"
+      ]
+    ],
+    [
+      [
+        "Material carcasă",
+        "Titanium"
+      ],
+      [
+        "Dimensiuni",
+        "146.6 x 70.6 x 8.25 mm"
+      ],
+      [
+        "Greutate",
+        "187 g"
+      ]
+    ],
+    [
+      [
+        "Conector audio 3.5 mm",
+        "Nu"
+      ],
+      [
+        "Bluetooth",
+        "Da"
+      ],
+      [
+        "Wi-Fi",
+        "Da"
+      ],
+      [
+        "GPS",
+        "Da"
+      ],
+      [
+        "NFC",
+        "Da"
+      ],
+      [
+        "Conector USB",
+        "USB Type-C"
+      ],
+      [
+        "Versiunea Bluetooth",
+        "v5.3"
+      ],
+      [
+        "Versiune Wi-Fi",
+        "802.11 be"
+      ]
+    ],
+    [
+      [
+        "Versiunea SO",
+        "17"
+      ],
+      [
+        "Sistem de operare",
+        "iOS"
+      ]
+    ],
+    [
+      [
+        "Rețea 2G",
+        "Da"
+      ],
+      [
+        "Rețea 5G",
+        "Da"
+      ],
+      [
+        "eSIM",
+        "Da"
+      ],
+      [
+        "Rețea 3G",
+        "Da"
+      ],
+      [
+        "Rețea 4G",
+        "Da"
+      ],
+      [
+        "Generația conexiunii",
+        "5G"
+      ]
+    ],
+    [
+      [
+        "Model CPU",
+        "A17 Pro"
+      ],
+      [
+        "Producătorul CPU",
+        "Apple"
+      ],
+      [
+        "Tehnologia de fabricație",
+        "3 nm"
+      ],
+      [
+        "Numărul de nuclee",
+        "6"
+      ],
+      [
+        "Frecvența maximală a procesorului",
+        "3.78 GHz"
+      ]
+    ],
+    [
+      [
+        "Numărul de camere principale",
+        "3"
+      ],
+      [
+        "Rezoluția video",
+        "4k - 24fps"
+      ],
+      [
+        "Rezoluția camerei principale",
+        "48 MP"
+      ],
+      [
+        "Rezoluția camerei ultrawide",
+        "12 MP"
+      ],
+      [
+        "Rezoluția camerei telephoto",
+        "12 MP"
+      ],
+      [
+        "Cameră frontală",
+        "12 MP"
+      ]
+    ],
+    [
+      [
+        "Blitz",
+        "Da"
+      ]
+    ],
+    [
+      [
+        "Densitate pixeli",
+        "461 ppi"
+      ],
+      [
+        "Dimensiune ecran",
+        "6.1"
+      ],
+      [
+        "Refresh rate",
+        "120 Hz"
+      ],
+      [
+        "Rezoluție ecran",
+        "2556 x 1179"
+      ],
+      [
+        "Tip display",
+        "Super Retina XDR OLED"
+      ],
+      [
+        "Always on Display",
+        "Da"
+      ]
+    ],
+    [
+      [
+        "Memorie internă",
+        "128 GB"
+      ],
+      [
+        "RAM",
+        "8 GB"
+      ]
+    ],
+    [
+      [
+        "Tipul acumulatorului",
+        "Li-Ion"
+      ],
+      [
+        "Capacitatea acumulatorului",
+        "3274 mAh"
+      ]
+    ],
+    [
+      [
+        "Formatul SIM",
+        "Nano-SIM"
+      ],
+      [
+        "Numărul de SIM",
+        "Single SIM"
+      ]
+    ],
+    [
+      [
+        "Grad de protecție",
+        "IP68"
+      ]
+    ],
+    [
+      [
+        "Sistemul audio",
+        "Stereo"
+      ]
+    ],
+    [
+      [
+        "Model placă video",
+        "Apple GPU (6-core graphics)"
+      ]
+    ],
+    [
+      [
+        "Accelerometru",
+        "Da"
+      ],
+      [
+        "Giroscop",
+        "Da"
+      ],
+      [
+        "Senzor de proximitate",
+        "Da"
+      ],
+      [
+        "Busolă",
+        "Da"
+      ],
+      [
+        "Barometru",
+        "Da"
+      ]
+    ]
+  ]
+}

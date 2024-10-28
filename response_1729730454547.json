@@ -1,0 +1,424 @@
+{
+  "status": "success",
+  "source": "selenium",
+  "data": {
+    "filtered_products": [
+      {
+        "name": "Scutece pentru copii Pampers Premium Care Midi 3",
+        "price": 44.75,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/ingrijire-si-igiena/scutece/pampers-premium-care-midi-3-6-10-kg-204-buc"
+      },
+      {
+        "name": "Scutece pentru copii Pampers Premium Care Junior 5",
+        "price": 44.75,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/ingrijire-si-igiena/scutece/pampers-premium-care-junior-5-11-16-kg-136-buc"
+      },
+      {
+        "name": "Scutece pentru copii Huggies Pants Mega Girl 4",
+        "price": 13.25,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/ingrijire-si-igiena/scutece/huggies-pants-mega-girl-4-9-14-kg-52-buc"
+      },
+      {
+        "name": "Scutece pentru copii Huggies Pants Mega Girl 6",
+        "price": 13.25,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/ingrijire-si-igiena/scutece/huggies-pants-mega-girl-6-15-25-kg-44-buc"
+      },
+      {
+        "name": "Scutece pentru copii Pampers Active Baby Jumbo Junior 5",
+        "price": 13.6,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/ingrijire-si-igiena/scutece/pampers-active-baby-jumbo-junior-5-11-16-kg-54-buc"
+      },
+      {
+        "name": "Scutece pentru copii Pampers Active Baby Jumbo Extra Large 6",
+        "price": 13.6,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/ingrijire-si-igiena/scutece/pampers-active-baby-jumbo-extra-large-6-13-18-kg-48-buc"
+      },
+      {
+        "name": "Scutece pentru copii Pampers Active Baby Jumbo Extra Large 7",
+        "price": 13.6,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/ingrijire-si-igiena/scutece/pampers-active-baby-jumbo-extra-large-7-15-kg-44-buc"
+      },
+      {
+        "name": "Scutece pentru copii Huggies Pants Mega Boy 6",
+        "price": 13.25,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/ingrijire-si-igiena/scutece/huggies-pants-mega-boy-6-15-25-kg-44-buc"
+      },
+      {
+        "name": "Scutece pentru copii Pampers Active Baby Jumbo Midi 3",
+        "price": 13.6,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/ingrijire-si-igiena/scutece/pampers-active-baby-jumbo-midi-3-6-10-kg-70-buc"
+      },
+      {
+        "name": "Scutece pentru copii Pampers Active Baby Jumbo Maxi 4",
+        "price": 13.6,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/ingrijire-si-igiena/scutece/pampers-active-baby-jumbo-maxi-4-9-14-kg-62-buc"
+      },
+      {
+        "name": "Scutece pentru copii Pampers Jumbo Mini 2",
+        "price": 13.6,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/ingrijire-si-igiena/scutece/pampers-jumbo-mini-2-4-8-kg-76-buc"
+      },
+      {
+        "name": "Scutece pentru copii Huggies Ultra Comfort Mega 5",
+        "price": 15,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/ingrijire-si-igiena/scutece/huggies-ultra-comfort-mega-5-12-22-kg-58-buc"
+      },
+      {
+        "name": "Scutece pentru copii Pampers Premium Care Mini 2",
+        "price": 44.75,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/ingrijire-si-igiena/scutece/pampers-premium-care-mini-2-4-8-kg-224"
+      },
+      {
+        "name": "Scutece pentru copii Pampers Maxi 4",
+        "price": 44.75,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/ingrijire-si-igiena/scutece/pampers-maxi-4-8-14-kg-174"
+      },
+      {
+        "name": "Mașină de spălat vase Gorenje GV520E15",
+        "price": 249.95,
+        "currency": "EUR",
+        "link": "https://enter.online/electrocasnice-mari/masini-de-spalat-vase/gorenje-gv520e15-ingusta-black"
+      },
+      {
+        "name": "Mașină de spălat LG F4WR711S3HA",
+        "price": 624.95,
+        "currency": "EUR",
+        "link": "https://enter.online/masini-de-spalat-si-uscatoare/masini-de-spalat/lg-f4wr711s3ha-full-size-11-kg-white"
+      },
+      {
+        "name": "Mașină de uscat rufe Samsung DV90BB5245AEUA",
+        "price": 689.95,
+        "currency": "EUR",
+        "link": "https://enter.online/masini-de-spalat-si-uscatoare/masini-de-uscat-rufe/samsung-dv90bb5245aeua-9-kg-white"
+      },
+      {
+        "name": "Frigider cu congelator jos Samsung RB34C600EEL/UA",
+        "price": 499.95,
+        "currency": "EUR",
+        "link": "https://enter.online/electrocasnice-mari/frigidere/samsung-rb34c600eel-ua-beige"
+      },
+      {
+        "name": "Sistemă de filtrare a apei Aquaphor DWM-102 S",
+        "price": 294.45,
+        "currency": "EUR",
+        "link": "https://enter.online/instalatii-sanitare/sisteme-de-filtrare-a-apei/aquaphor-dwm-102-s-black"
+      },
+      {
+        "name": "Xiaomi Redmi 12 4G",
+        "price": 149.95,
+        "currency": "EUR",
+        "link": "https://enter.online/telefoane/smartphone-uri/xiaomi-redmi-12-8-gb-256-gb-4g-dual-sim-midnight-black"
+      },
+      {
+        "name": "Asus Vivobook 17X M3704YA",
+        "price": 524.5,
+        "currency": "EUR",
+        "link": "https://enter.online/laptopuri/asus-vivobook-17x-m3704ya-ryzen-5-7430u-16-gb-512-gb-vga-integrata-black"
+      },
+      {
+        "name": "Televizor Daewoo 55DH55UQ",
+        "price": 374.5,
+        "currency": "EUR",
+        "link": "https://enter.online/televizoare/daewoo-55dh55uq-55-qled-4k-smart-tv-black"
+      },
+      {
+        "name": "Umidificator de aer Xiaomi Humidifier 2 Lite",
+        "price": 34.95,
+        "currency": "EUR",
+        "link": "https://enter.online/climatizare/umidificatoare-de-aer/xiaomi-humidifier-2-lite-cu-ultrasunet-white"
+      },
+      {
+        "name": "Placă de îndreptat părul Dyson HT01",
+        "price": 549.95,
+        "currency": "EUR",
+        "link": "https://enter.online/aparate-de-coafat/placi-de-indreptat-parul/dyson-ht01-1600-w-silver-bronze"
+      },
+      {
+        "name": "Apple iPhone 15 Pro",
+        "price": 1099.95,
+        "currency": "EUR",
+        "link": "https://enter.online/telefoane/smartphone-uri/apple-iphone-15-pro-128-gb-5g-single-sim-titanium-blue"
+      },
+      {
+        "name": "Apple iPhone 11",
+        "price": 549.95,
+        "currency": "EUR",
+        "link": "https://enter.online/telefoane/smartphone-uri/apple-iphone-11-4-gb-128-gb-black"
+      },
+      {
+        "name": "Centrală termică pe gaz Airfel Digifel Premix",
+        "price": 694.95,
+        "currency": "EUR",
+        "link": "https://enter.online/climatizare/sisteme-de-incalzire/centrale-termice-pe-gaz/airfel-digifel-premix"
+      },
+      {
+        "name": "Aparat de mărunţit pentru crengi Arpal AM-60BD",
+        "price": 1497.45,
+        "currency": "EUR",
+        "link": "https://enter.online/gradinarit/tocatoare-pentru-gradina/arpal-am-60bd-pentru-crengi-4000-w-red"
+      },
+      {
+        "name": "Dulap pentru haine glisant Mobildor-Lux ARON P 1200 K2 3025",
+        "price": 299.95,
+        "currency": "EUR",
+        "link": "https://enter.online/mobila/pentru-living/dulapuri/mobildor-lux-k2-3025-00381646-220cm-60cm-220cm-pal-stejar-sonoma"
+      },
+      {
+        "name": "Aparat de mărunţit pentru crengi Daewoo DSR 3000E",
+        "price": 315.45,
+        "currency": "EUR",
+        "link": "https://enter.online/gradinarit/tocatoare-pentru-gradina/daewoo-dsr-3000e-pentru-crengi-3000-w-orange"
+      },
+      {
+        "name": "Pat Ambianta Inter-3",
+        "price": 442.45,
+        "currency": "EUR",
+        "link": "https://enter.online/mobila/pentru-dormitor/paturi/ambianta-inter-3-180-x-200-cm-pal-sonoma"
+      },
+      {
+        "name": "Pat pentru copii Ambianta Amigo",
+        "price": 390.45,
+        "currency": "EUR",
+        "link": "https://enter.online/mobila/pentru-dormitor/paturi/ambianta-amigo-160-x-200-cm-pal-gray"
+      },
+      {
+        "name": "Centrală termică pe gaz Airfel Maestro 28",
+        "price": 844.95,
+        "currency": "EUR",
+        "link": "https://enter.online/climatizare/sisteme-de-incalzire/centrale-termice-pe-gaz/airfel-maestro-28-240-m"
+      },
+      {
+        "name": "Betonieră Kamoto BM 180 180 l",
+        "price": 244.95,
+        "currency": "EUR",
+        "link": "https://enter.online/constructii-si-reparatii/echipament/betoniere/kamoto-bm-180-180-l-800-w-orange"
+      },
+      {
+        "name": "Saltea ortopedică Askona Grether & Wells Heaven Luxury 160 x 200 cm",
+        "price": 1764.95,
+        "currency": "EUR",
+        "link": "https://enter.online/textile/saltele-ortopedice/askona-grether-wells-heaven-luxury-160-x-200-cm-grey"
+      },
+      {
+        "name": "Dulap glisant Dogtas Milena",
+        "price": 944.95,
+        "currency": "EUR",
+        "link": "https://enter.online/mobila/pentru-living/dulapuri/dogtas-milena-3200395074-243-691-2197-dsp-beige"
+      },
+      {
+        "name": "Adidași pentru bărbați Puma Night Runner V2",
+        "price": 47.45,
+        "currency": "EUR",
+        "link": "https://enter.online/incaltaminte-si-accesorii/incaltaminte-barbati/adidasi-barbati/puma-night-runner-v2-4065454539564-41-black"
+      },
+      {
+        "name": "Adidași pentru femei Nike Zoom Bella 6",
+        "price": 71.45,
+        "currency": "EUR",
+        "link": "https://enter.online/incaltaminte-si-accesorii/incaltaminte-femei/adidasi-dama/nike-zoom-bella-6-196153714144-36-black"
+      },
+      {
+        "name": "Tricou pentru bărbați Puma Ess Logo Tee",
+        "price": 19.95,
+        "currency": "EUR",
+        "link": "https://enter.online/imbracaminte/barbati/tricouri-barbati/puma-puma-ess-logo-tee-4063697405714-blue-l"
+      },
+      {
+        "name": "Ceas de mână pentru bărbați Timex TW2U05800",
+        "price": 74.45,
+        "currency": "EUR",
+        "link": "https://enter.online/accesorii-fashion/ceasuri-de-mana/timex-tw2u05800-42-mm-alama-cuart"
+      },
+      {
+        "name": "Saltea ortopedică Classica Classic Omega 5457487 135 x 190 cm",
+        "price": 114.95,
+        "currency": "EUR",
+        "link": "https://enter.online/textile/saltele-ortopedice/classica-classic-omega-5457487-135-x-190-cm-white"
+      },
+      {
+        "name": "Scaun auto Joie i-Traver (31461-06)",
+        "price": 217.45,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/scaune-auto/joie-i-traver-31461-06-3-ani-12-ani-36-kg-green"
+      },
+      {
+        "name": "Suflantă de frunze KARCHER LBL 2 (1.445-100.0)",
+        "price": 74.95,
+        "currency": "EUR",
+        "link": "https://enter.online/gradinarit/suflante-de-frunze/karcher-lbl-2-1-445-100-0-cu-acumulator"
+      },
+      {
+        "name": "Masă de bucătărie DecoPrim Calipso",
+        "price": 109.95,
+        "currency": "EUR",
+        "link": "https://enter.online/mobila/de-bucatarie/mese/decoprim-calipso-nf-0001768-pal-brown"
+      },
+      {
+        "name": "Fierăstrău cu lanţ Daewoo DACS 4500 + Axe",
+        "price": 141.95,
+        "currency": "EUR",
+        "link": "https://enter.online/gradinarit/fierastraie-cu-lant/daewoo-dacs-4500-plus-ax-400-mm"
+      },
+      {
+        "name": "Fierăstrău cu lanţ Hammer CS3800",
+        "price": 84.95,
+        "currency": "EUR",
+        "link": "https://enter.online/gradinarit/fierastraie-cu-lant/hammer-cs3800-400-mm"
+      },
+      {
+        "name": "Scaun de masă Kikka Boo Woody (31004010083)",
+        "price": 74.95,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/scaune-de-masa/kikka-boo-woody-10838-crescator-6-luni-pink"
+      },
+      {
+        "name": "Scaun de masă Kikka Boo Woody (31004010084)",
+        "price": 74.95,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/scaune-de-masa/kikka-boo-woody-10845-crescator-6-luni-blue"
+      },
+      {
+        "name": "Fotoliu de birou DecoPrim F-63",
+        "price": 67.45,
+        "currency": "EUR",
+        "link": "https://enter.online/mobila/de-birou/fotolii/decoprim-f-63-plasa-acrilica-piele-artificiala-black"
+      },
+      {
+        "name": "Masă de birou DecoPrim Box incorporat",
+        "price": 125.95,
+        "currency": "EUR",
+        "link": "https://enter.online/mobila/de-birou/mese/decoprim-box-incorporat-mdf-beige"
+      },
+      {
+        "name": "Scaun auto CAM Quantico (2600000067683)",
+        "price": 199.45,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/scaune-auto/cam-quantico-2600000067683-3-ani-12-ani-36-kg-blue"
+      },
+      {
+        "name": "Cărucior pentru copil Anex m/ type",
+        "price": 628.95,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/carucioare/anex-m-type-mt-04q-brown"
+      },
+      {
+        "name": "Cărucior pentru copil Chipolino Roxy",
+        "price": 119.45,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/carucioare/chipolino-roxy-3800931041212-lilac"
+      },
+      {
+        "name": "Motocultor Huter MK-11000P",
+        "price": 749.95,
+        "currency": "EUR",
+        "link": "https://enter.online/gradinarit/motocultoare/huter-mk-11000p-4-timpi-benzina"
+      },
+      {
+        "name": "Motocultor Wolter WMT 105",
+        "price": 294.45,
+        "currency": "EUR",
+        "link": "https://enter.online/gradinarit/motocultoare/wolter-wmt-105-4-timpi-benzina"
+      },
+      {
+        "name": "Suflantă de frunze Tolsen 79629",
+        "price": 198.95,
+        "currency": "EUR",
+        "link": "https://enter.online/gradinarit/suflante-de-frunze/tolsen-79629-pe-benzina"
+      },
+      {
+        "name": "Bicicletă Crosser SOLO 29\" 21\"",
+        "price": 260.95,
+        "currency": "EUR",
+        "link": "https://enter.online/transport-personal/biciclete-clasice/crosser-solo-29-21-aluminiu-gray-orange"
+      },
+      {
+        "name": "Despicător de lemne Villager LSP 12 T",
+        "price": 1224.95,
+        "currency": "EUR",
+        "link": "https://enter.online/gradinarit/despicatoare-de-lemne/villager-lsp-12-t-electric-orange"
+      },
+      {
+        "name": "Betonieră Ronix 2450 200 l",
+        "price": 234.95,
+        "currency": "EUR",
+        "link": "https://enter.online/constructii-si-reparatii/echipament/betoniere/ronix-2450-200-l-850-w-blue"
+      },
+      {
+        "name": "Cărucior pentru copil Carrello Bravo 2024",
+        "price": 179.45,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/carucioare/carrello-bravo-2024-1058006-5-black"
+      },
+      {
+        "name": "Scaun auto Tilly Bliss T-535",
+        "price": 139.45,
+        "currency": "EUR",
+        "link": "https://enter.online/produse-pentru-copii/scaune-auto/tilly-bliss-t-535-36-kg-gray"
+      },
+      {
+        "name": "Fotoliu de birou DecoPrim F-63",
+        "price": 67.45,
+        "currency": "EUR",
+        "link": "https://enter.online/mobila/de-birou/fotolii/decoprim-f-63-plasa-acrilica-piele-artificiala-blue-black"
+      },
+      {
+        "name": "Centrală termică pe gaz Airfel Digifel Premix",
+        "price": 694.95,
+        "currency": "EUR",
+        "link": "https://enter.online/climatizare/sisteme-de-incalzire/centrale-termice-pe-gaz/airfel-digifel-premix"
+      },
+      {
+        "name": "Fierăstrău cu lanţ Ronix RONIX 4647",
+        "price": 104.95,
+        "currency": "EUR",
+        "link": "https://enter.online/gradinarit/fierastraie-cu-lant/ronix-ronix-4647-pe-benzina-red"
+      },
+      {
+        "name": "Betonieră Ronix 2450 200 l",
+        "price": 234.95,
+        "currency": "EUR",
+        "link": "https://enter.online/constructii-si-reparatii/echipament/betoniere/ronix-2450-200-l-850-w-blue"
+      },
+      {
+        "name": "Aparat de mărunţit pentru crengi Villager VC 2500",
+        "price": 199.95,
+        "currency": "EUR",
+        "link": "https://enter.online/gradinarit/tocatoare-pentru-gradina/villager-vc-2500-2500-w"
+      },
+      {
+        "name": "Suflantă de frunze Daewoo DABL 270",
+        "price": 179.95,
+        "currency": "EUR",
+        "link": "https://enter.online/gradinarit/suflante-de-frunze/daewoo-dabl-270-pe-benzina"
+      },
+      {
+        "name": "Maşină de curăţat cu presiune KARCHER K3 Classic Car",
+        "price": 126.45,
+        "currency": "EUR",
+        "link": "https://enter.online/instrumente-electrice/masini-de-curatat-cu-presiune/karcher-k3-classic-car-1600-w-yellow"
+      },
+      {
+        "name": "Maşină de curăţat cu presiune Annovi Reverberi Blue Clean 3.0 DSS",
+        "price": 171.45,
+        "currency": "EUR",
+        "link": "https://enter.online/instrumente-electrice/masini-de-curatat-cu-presiune/masini-de-curatat-cu-presiune-annovi-reverberi-blue-clean-30-dss-2500-w"
+      }
+    ],
+    "total_sum": 20710.700000000026,
+    "timestamp": "2024-10-24T00:40:54.474785"
+  }
+}
